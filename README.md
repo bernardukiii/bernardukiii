@@ -1,10 +1,16 @@
 <h1>Hi! I'm Bernardo!</h1>
 <hr></hr>
 <ul>
-  <li> 👋 I usually go by <strong>bernardukiii</strong> online and use the <strong>bdki Corporation</strong> as a front for my personal projects.</li>
-  <li> 👀 I code now after an on/off relationship with <strong>SmallBasic, HTML & CSS, Python and JavaScript</strong>.</li>
-  <li> 🌱 My main focus now are <strong>ReactJS</strong> & <strong>NextJS</strong> since I love the frontend specialization, and <strong>JavaScript libraries altogether</strong>.</li>
-  <li>I also like tampering with alertnatives like Svelte (using SvelteKit)</li>
+  Hi! I'm Bernardo 👋  
+  I usually go by **bernardukiii** online and use **bdki Corporation** as a front for my personal projects.
+  
+  📊 I'm transitioning from frontend development into **data analysis**, combining a strong JavaScript background with Python and data-focused tooling.
+  
+  👀 My coding journey includes HTML, CSS, JavaScript, React, Next.js, and Python—now increasingly applied to data wrangling, analysis, and visualization.
+  
+  🌱 Currently focusing on **Python for data analysis**, SQL, and turning data into clear insights and dashboards.
+  
+  🚀 Most of my projects are hosted on Vercel, including my portfolio.
  </ul>
  
  I've discovered Vercel ❤️ a while back and am in love with it ever since. Most of my projects are hosted there, including <a href="https://bdki-portfolio.vercel.app">my portfolio!</a>
