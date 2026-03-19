@@ -14,7 +14,7 @@
  </ul>
  
 
- <h2>Deployed projects projects</h2>
+ <h2>Deployed projects</h2>
  <ul>
    <li>
      <a href="https://simpsons-quotes-translator.vercel.app/" target="_blank" >Frases-meme Los Simpsons</a>
